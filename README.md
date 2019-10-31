@@ -14,13 +14,11 @@ After my studies i am going to work as gereric assistance, and for that i have d
 7. Node.js
 
 ## useful features to note
-*Email
-*
-Name 
-
-*Phone number
-*Age 
-*gender
+* Email
+* Name 
+* Phone number
+* Age 
+* gender
 
 ## Website features  
 *I am going to include:
