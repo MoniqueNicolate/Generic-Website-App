@@ -21,7 +21,7 @@ After my studies i am going to work as gereric assistance, and for that i have d
 * gender
 
 ## Website features  
-*I am going to include:
+* I am going to include:
 1. Nice food prictures
 2. nice makeup kit
 3. nice housing
