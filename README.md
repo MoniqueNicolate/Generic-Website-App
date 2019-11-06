@@ -21,7 +21,7 @@ After my studies i am going to work as gereric assistance, and for that i have d
 * gender
 
 ## Website features  
-1. fuits
+1. food
 
 
 ## Plan 
