@@ -2,7 +2,7 @@
 
 
 # Introduction
-After my studies i am going to work as gereric assistance, and for that i have decided to  create this website so that i will benefit from it so as my studies.
+After my studies i am going to work as gereric assistance, and for that i have decided to  create this website so that i will benefit from it so as my studies.My project is ony going to specialize on health food. This site is going to be useful world wide since health is what the world needs today.
 
 ## Technologies features
 1. Front end
@@ -13,15 +13,13 @@ After my studies i am going to work as gereric assistance, and for that i have d
 6. Javascript
 7. Node.js
 
-## useful features to note
-* Email
-* Name 
-* Phone number
-* Age 
-* gender
+
 
 ## Website features  
-1. food
+1. home page
+2. About page
+3. Blog Page
+4. Services
 
 
 ## Plan 
