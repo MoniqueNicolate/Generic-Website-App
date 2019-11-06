@@ -34,4 +34,4 @@ After my studies i am going to work as gereric assistance, and for that i have d
 * checking errors
 * Submit
 
-<p align="left"> <a href="https://moniquenicolate.github.io/website-project/">Index</a>
+<p align="left"> <a https://moniquenicolate.github.io/Generic-Website-App/">Index</a>
