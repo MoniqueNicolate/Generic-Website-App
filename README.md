@@ -14,12 +14,18 @@ After my studies i am going to work as gereric assistance, and for that i have d
 7. Node.js
 
 
-
 ## Website features  
 1. home page
 2. About page
 3. Blog Page
 4. Services
+
+
+## Some other features included
+1. benefits of sweet food
+2. disadvantages of taste food
+3. the  type of food which is health 
+
 
 
 ## Plan 
