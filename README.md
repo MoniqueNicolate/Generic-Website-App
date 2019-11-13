@@ -32,4 +32,4 @@ After my studies i am going to work as gereric assistance, and for that i have d
 * Week 14 : Upgrade Ops based on Teacher's Input
 * Week 15 : Final Release
 
-<p align="left"> <a https://moniquenicolate.github.io/Generic-Website-App/">Index</a>
+<p align="left"> <a https://moniquenicolate.github.io/Generic-Website-App/">Index</a> </p>
