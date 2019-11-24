@@ -38,4 +38,4 @@ After my studies i am going to work as gereric assistance, and for that i have d
 * Week 14 : Upgrade Ops based on Teacher's Input
 * Week 15 : Final Release
 
-  [Link](https://moniquenicolate.github.io/Taste-Food-Website-App/)
+  [Demo](https://moniquenicolate-taste-food-website-app.glitch.me/)
