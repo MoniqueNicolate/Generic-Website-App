@@ -1,0 +1,36 @@
+{
+  "name": "website-project",
+  "version": "1.0.0",
+  "description": "After my studies i am going to work as gereric assistance, and for that i have decided to  create this website so that i will benefit from it so as my studies.My project is ony going to specialize on health food. This site is going to be useful world wide since health is what the world needs today.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoniqueNicolate/website-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoniqueNicolate/website-project/issues"
+  },
+  "homepage": "https://github.com/MoniqueNicolate/website-project#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.12",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}

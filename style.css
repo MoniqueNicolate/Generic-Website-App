@@ -58,7 +58,7 @@ body{
 
 /*------------------------- Body ------------------------*/ 
 .body{
-	width:940px;
+	width:auto;
 	margin:0 auto;
 	padding:0 10px;
 	overflow:hidden;
@@ -292,7 +292,7 @@ body{
 
 /*------------------------- Footer ------------------------*/ 
 .footer{
-	width:940px;
+	width:auto;
 	background:url(../images/bg-footer.jpg) no-repeat center top;
 	padding:65px 10px 207px;
 	margin:0 auto;
