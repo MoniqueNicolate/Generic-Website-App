@@ -2,7 +2,7 @@
 
 
 # Introduction
-After my studies i am going to work as gereric assistance, and for that i have decided to  create this website so that i will benefit from it so as my studies.
+After my studies i am going to work as gereric assistance, and for that i have decided to  create this website so that i will benefit from it so as my studies.My project is ony going to specialize on health food. This site is going to be useful world wide since health is what the world needs today.
 
 ## Technologies features
 1. Front end
@@ -13,24 +13,29 @@ After my studies i am going to work as gereric assistance, and for that i have d
 6. Javascript
 7. Node.js
 
-## useful features to note
-* Email
-* Name 
-* Phone number
-* Age 
-* gender
 
 ## Website features  
-*I am going to include:
-1. Nice food prictures
-2. nice makeup kit
-3. nice housing
-4. some cosmetics staffs
+1. home page
+2. About page
+3. Blog Page
+4. Services
+
+
+## Some other features included
+1. benefits of sweet food
+2. disadvantages of taste food
+3. the  type of food which is health 
+
 
 
 ## Plan 
-* creating front end  
-* creating back end 
-* checking errors
-* Submit
+* Week 8 : Github update 
+* Week 9 : home pages and css
+* Week 10 : Completion of Front-End
+* Week 11 : Backend Optimization
+* Week 12 : Frontend Optimization
+* Week 13 : Backend Debugging and Stress testing
+* Week 14 : Upgrade Ops based on Teacher's Input
+* Week 15 : Final Release
 
+  [Demo](https://moniquenicolate-taste-food-website-app.glitch.me/)
