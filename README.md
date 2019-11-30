@@ -31,7 +31,7 @@ After my studies i am going to work as gereric assistance, and for that i have d
 ## Plan 
 * Week 8 : Github update 
 * Week 9 : home pages and css
-* Week 10 : Completion of Front-End
+* Week 10 : Completion  of Front-End
 * Week 11 : Backend Optimization
 * Week 12 : Frontend Optimization
 * Week 13 : Backend Debugging and Stress testing
