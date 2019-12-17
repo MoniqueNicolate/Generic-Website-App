@@ -288,12 +288,17 @@ body{
 }
 .body ul.paging li a:hover{
 	color:#5D5D5D;
+
+	/*contact form */
+	label, input, textarea {
+		display: block;
+	}
 }
 
 /*------------------------- Footer ------------------------*/ 
 .footer{
 	background:url(../images/bg-footer.jpg) no-repeat center top;
-	padding:65px 10px 207px;
+	padding:65px 10px 20px;
 	margin:0 auto;
 	overflow:hidden;
 }

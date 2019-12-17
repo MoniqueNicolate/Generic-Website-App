@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+		<title>Mussah Generic website</title>
+		<link rel="stylesheet" href="css/style.css" type="text/css" />
+		<link rel="stylesheet" href="contact.css" type="text/css" />
+		
+		<!--js file-->
+		<script src="js/main.js"></script>
+		
+		
+	</head>
+	<body>
+		<div class="page">
+			<div class="header">
+				<a href="index.html" id="logo"><img src="images/logo.gif" alt=""/></a>
+				<ul>
+					<li class="selected"><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="blog.html">Blog</a></li>
+					<li><a href="services.html">Services</a></li>
+					<li><a href="contact.html">Contact</a></li>
+				</ul>
+			</div>
+			
+			<div class="foor" style="align-content: center;">
+				<h1>contact Us</h1>
+				<form id="contactForm" action="https://formspree.io/mumumonique4@gmail.com" method="POST">
+					<div class="row">
+					  <div class="col-md-12">
+						  <div class="form-group" >
+							  <input type="text" class="form-control"  id="name" name="name" placeholder="Your Name" required data-error="Please enter your name">
+							  <div class="help-block with-errors"></div>
+						  </div>                                 
+					  </div>
+					  <div class="col-md-12">
+						  <div class="form-group" >
+							  <input type="text" placeholder="Your Email" id="email" class="form-control" name="name" required data-error="Please enter your email">
+							  <div class="help-block with-errors"></div>
+						  </div> 
+					  </div>
+					 
+					 
+					  <div class="col-md-12">
+						  <div class="form-group"> 
+							  <textarea class="form-control" id="message" placeholder="Your Message" rows="8" data-error="Write your message" required></textarea>
+							  <div class="help-block with-errors"></div>
+						  </div>
+						  <div class="submit-button text-center">
+							  <button class="btn btn-common" id="submit" type="submit">Send Message</button>
+							  <div id="msgSubmit" class="h3 text-center hidden"></div> 
+							  <div class="clearfix"></div> 
+						  </div>
+					  </div>
+					</div>            
+				  </form>
+
+			</div>
+		
+			
+			<div class="footer">
+				<ul>
+					<li><a href="index.html">Home</a></li>
+					<li><a href="about.html">About</a></li>
+					<li><a href="blog.html">Blog</a></li>
+					<li><a href="services.html">Gallery</a></li>
+				</ul>
+				<p>&#169; Copyright &#169; 2019. Mussah Generic have all rights reserved</p>
+				<div class="connect">
+					<a href="http://facebook.com" id="facebook">facebook</a>
+					<a href="http://twitter.com" id="twitter">twitter</a>
+					<a href="http://www.youtube.com" id="vimeo">vimeo</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>  
